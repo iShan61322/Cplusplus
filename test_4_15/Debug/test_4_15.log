@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\学习\计算机\C++\test_4_15\test.cpp(43,6): error C2374: “pigA”: 重定义；多次初始化
+D:\学习\计算机\C++\test_4_15\test.cpp(41): message : 参见“pigA”的声明
