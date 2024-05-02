@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\学习\计算机\C++\test_5_2\test.cpp(9): warning C4172: 返回局部变量或临时变量的地址: a
+  test_5_2.vcxproj -> D:\学习\计算机\C++\test_5_2\Debug\test_5_2.exe
